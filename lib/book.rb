@@ -7,7 +7,11 @@ initialize(title)
    
    def title 
      @title
-   end    
-  
+   end
+   
+   def author= (author)
+  @author = author
+end 
+
 end 
 
